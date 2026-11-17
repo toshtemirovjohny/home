@@ -1,3 +1,6 @@
+# Berilgan matndagi unli va undosh harflarni sanab, 
+# natijani dict ko'rinishida qaytaruvchi funksiya yozish.
+
 def count_vowels_and_consonants(matn: str):
     x = {}
     count_unli = 0 ; count_undosh = 0
