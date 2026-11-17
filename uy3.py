@@ -1,8 +1,10 @@
 # 🎯 Maqsad
 # Sonlar ro'yxatini chastotasiga qarab kamayish tartibida saralash. 
 # 'Chastotasi teng bo'lgan sonlar — qiymati bo'yicha o'sish tartibida joylashsin.
+from collections import Counter
 
 def rearrange_by_frequency(nums: list[int]):
+    # a = Counter(nums)
     a = {}
     for i in nums:
         count = 0
