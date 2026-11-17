@@ -3,5 +3,6 @@
   {"name": "Vali",    "age": 22, "grade": 90},
   {"name": "Hasan",   "age": 21, "grade": 75},
   {"name": "Husan",   "age": 20, "grade": 88},
-  {"name": "Dilorom", "age": 23, "grade": 95}
+  {"name": "Dilorom", "age": 23, "grade": 95},
+  {"name": "Aziz",    "age": 25, "grade": 88}
 ]
