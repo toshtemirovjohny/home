@@ -10,6 +10,7 @@ def rearrange_by_frequency(nums: list[int]):
             if x == i:
                 count +=1
         a[i] = count
+    # print(a)
     natija = sorted(a.keys(), key=lambda x: (-a[x],x))
     return natija
 
